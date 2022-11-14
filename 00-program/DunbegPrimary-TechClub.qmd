@@ -1,0 +1,79 @@
+---
+title: "After School Tech Club"
+subtitle: "Dunbeg Primary School"
+author: "Paola Arce"
+date: today
+date-format: "MMM D, YYYY"
+format:
+  pdf:
+    colorlinks: true
+    number-sections: false
+    geometry:
+      - top=20mm
+      - left=20mm
+---
+
+## Goal
+The goal of this club is to develop our children's natural ability for learning new technologies. Basic technology concepts are going to be introduced by creating and having fun. Technology is a cross-disciplinary area and children can apply it to any other area they are already interested in. The activities will include topics such as Computing Programming, Internet and Artificial Intelligence but also Gaming, Maths, Art and a bit of Geography. 
+
+## Audience
+The lessons are designed for P4-P7 pupils.
+
+## Schedule
+Every Wednesday after school from 3:30pm to 4:15pm.
+
+**Estimated dates**: 16th of November - 14th of December
+
+:::{.callout-note}
+1. I could restart the sessions after the Christmas holidays, probably mid January.
+1. I estimated a few sessions on each topic but we could expand those depending on the children's interest and progress. 
+:::
+
+\newpage
+
+## Program
+### Logo turtle [2-3 sessions]
+Logo is a programming language designed to teach basic coding instructions. The children will give instructions to a tiny turtle to draw lines, squares, circles, etc. on a blank screen only using commands. We could start following some lessons online and then the children can design their own drawing and write the commands to draw them on the screen.
+
+![Logo shapes](img/logo.png){width="55%"}
+
+References:
+
+1. [Logo Programming Language in Wikipedia](https://en.wikipedia.org/wiki/Logo_(programming_language))
+1. [Free Logo lessons](https://turtleacademy.com/)
+1. [BBC Bitesize Logo reference](https://www.bbc.co.uk/bitesize/guides/zsqxsbk/revision/1)
+
+
+### DALL-E [1 session]
+DALL-E 2 is a software to generate digital images in multiple styles only based on text. It was released to the public in July 2022 and it has been very popular since then. The session will cover some concepts of art, maths and artificial intelligence. At the end of the session, each pupil will write text that we will convert into images. The creations can then be later shared with the parents as a gallery on a Facebook post for example.
+
+![Teddy bears working on new AI research underwater with 1990s technology](img/teddy-bear.jpg){width="50%"}
+
+References:
+
+1. [DALL-E](https://openai.com/dall-e-2/)
+1. [An A.I.-Generated Picture Won an Art Prize. Artists Aren’t Happy.](https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists.html) 
+
+
+### Mecabricks [2-3 sessions]
+Lego fans will enjoy building lego online with Mecabricks. Mecabricks is a free web application to build Lego 3D models. Since almost every piece on every colour is available, posibilities are infinite. Advanced users can also animate their creations and render their models.
+
+References:
+
+1. [Mecabricks](https://mecabricks.com/)
+
+![Rendered 3D Lego model](img/race-car.jpg){width="50%"}
+
+
+### Digital Maps [1 session]
+Understanding maps is really useful and also fun! Google Maps and Google Earth are free and amazing to understand where we are in the globe, explore other countries and find directions to go anywhere. We can start a project saving all the places the kids would like to visit one day or even create a map with the places they have visited already.
+
+![Google Earth](img/google-earth.jpg){width="45%"}
+
+References:
+
+1. [Google Maps](https://maps.google.com)
+1. [Google Earth](https://earth.google.com/web)
+
+### Programmable lego [3 sessions]
+TBD

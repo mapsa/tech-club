@@ -1,0 +1,260 @@
+---
+title: "Logo"
+subtitle: "Tech Club"
+date: "16 November 2022"
+format: 
+  revealjs:
+    theme: [blood,custom.scss]
+    logo: "img/logoturtle.png"
+    css: styles.css
+---
+
+
+## What is Logo?
+
+::::{.columns}
+:::{.column width="50%"}
+Logo is a programming language known because it produces images created by a small turtle.
+:::
+:::{.column width="50%"}
+![](img/A%20turtle%20coding%20a%20computer-1667979448659.jpeg){width=100%}
+:::
+::::
+
+
+## Basic commands
+
+::::{.columns}
+:::{.column width="50%"}
+At the beginning the turtle is positioned at the centre of the screen.
+:::
+:::{.column width="50%"}
+![](img/start.jpg)
+:::
+::::
+
+## How to draw a square?
+
+::::{.columns}
+:::{.column width="50%"}
+The turtle can move forward and draw a line using the command `forward` or its short form `fd`:
+
+\
+\
+```{.logo code-line-numbers="false"}
+forward 100
+```
+:::
+:::{.column width="50%"}
+![](img/forward-1.jpg)
+:::
+::::
+
+
+## How to draw a square?
+
+::::{.columns}
+:::{.column width="50%"}
+Now we need to turn the turtle 90 degrees:
+
+\
+```{.logo code-line-numbers="false"}
+right 90
+```
+:::
+:::{.column width="50%"}
+![](img/right-1.jpg)
+:::
+::::
+
+
+## How to draw a square?
+
+::::{.columns}
+:::{.column width="50%"}
+Let's move forward:
+
+\
+```{.logo code-line-numbers="false"}
+forward 100
+```
+:::
+:::{.column width="50%"}
+![](img/forward-2.jpg)
+:::
+::::
+
+
+## How to draw a square?
+
+::::{.columns}
+:::{.column width="50%"}
+And turn right again ...
+
+\
+
+```{.logo code-line-numbers="false"}
+right 90
+```
+:::
+:::{.column width="50%"}
+![](img/right-2.jpg)
+:::
+::::
+
+## How to draw a square?
+
+::::{.columns}
+:::{.column width="50%"}
+you know what's next already
+
+\
+```{.logo code-line-numbers="false"}
+forward 100
+```
+:::
+:::{.column width="50%"}
+![](img/forward-3.jpg)
+:::
+::::
+
+
+## How to draw a square?
+
+::::{.columns}
+:::{.column width="50%"}
+Let's turn the turtle one last time
+
+\
+```{.logo code-line-numbers="false"}
+right 90
+```
+:::
+:::{.column width="50%"}
+![](img/right-3.jpg)
+:::
+::::
+
+## How to draw a square?
+
+::::{.columns}
+:::{.column width="50%"}
+
+We did it!!
+
+\
+```{.logo code-line-numbers="false"}
+forward 100
+```
+:::
+:::{.column width="50%"}
+![](img/forward-4.jpg)
+:::
+::::
+
+--- 
+
+**Let's have a go!**
+
+:::{.callout-tip}
+# Exercise
+Using the `forward` and `right` command, draw a pentagon.
+
+\
+Open a browser and go to [https://newton.ex.ac.uk/jtest/new](https://newton.ex.ac.uk/jtest/new)
+:::
+
+
+
+
+![](img/turtle-skates.gif){width=50% fig-align="center"}
+
+
+## Loops
+
+A loop is an instruction that repeats until a specified condition is reached. In Logo, the most common loop operations is called `repeat`.
+
+## A square using loops
+
+::::{.columns}
+:::{.column width="50%"}
+This is a square can be created using `repeat`:
+```{.logo code-line-numbers="false"}
+repeat 4 [
+    forward 100
+    right 90
+]
+```
+:::
+:::{.column width="50%"}
+![](img/forward-4.jpg)
+:::
+::::
+
+## Another example of loops
+
+This is a star of 10 points created repeating the same code 10 times.
+
+::::{.columns}
+:::{.column width="50%"}
+```{.logo code-line-numbers="false"}
+repeat 10 [
+    forward 30
+    right -100
+    forward 30
+    right 140
+]
+```
+:::
+:::{.column width="50%"}
+![](img/Turtle-animation.gif){width=100%}
+:::
+::::
+
+## More basic commands
+
+| Command | Abbrv | Description |
+|--------------|---------------|-------------------|
+| forward      | fd            | Moves forward     | 
+| back         | bk            | Moves backward    |
+| right        | rt            | Turn x degrees to the right |
+| left         | lt            | Turn x degrees to the left |
+| home         |               | Go back to start |
+
+
+## More basic commands 
+
+| Command | Abbrv | Description |
+|--------------|---------------|-------------------|
+| clearscreen  | cs            | Clean the screen  |
+| hideturtle | ht | Hide the turtle     |
+| showturtle | st | Show the turtle     |
+| penup  | pu           | Put the pen into non-draw state  |
+| pendown  | pd           | Put the pen into draw state  |
+| setpensize | | Set the line thickness |
+| setpencolor | | Change the line color|
+
+## More advanced commands
+
+| Command  | Description |
+|--------------|-------------------|
+| repeat | 
+| arc angle radious | Draw an arc  |
+| setpos [X Y] | Move the turtle to position X,Y |
+
+
+---
+
+**Let's go!**
+
+:::{.callout-tip}
+# Exercise
+Using the `repeat`, `forward`, and `right` commands, draw a pentagon.
+\
+Open a browser and go to [https://newton.ex.ac.uk/jtest/new](https://newton.ex.ac.uk/jtest/new)
+:::
+
+
+
+![](img/turtle-skateboarding.gif){width=50% fig-align="center"}
+

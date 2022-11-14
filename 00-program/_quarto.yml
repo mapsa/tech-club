@@ -1,0 +1,59 @@
+# project:
+#   type: website
+
+# website:
+#   title: "Late and Slow Payments"
+#   # repo-url: https://github.com/gofcoe/latepayments/notebooks
+#   # repo-actions: [edit, issue]
+#   page-navigation: true
+#   navbar:
+#     left:
+#       - href: index.qmd
+#         text: Home
+#       - href: population-bias-maps.qmd
+#         text: Data representation
+#       - href: start-end-maps.qmd
+#         text: Late Payments Maps
+
+format:
+  docx:
+    toc: false
+    number-sections: false
+    reference-doc: custom-reference-doc.docx
+    default-image-extension: pdf
+    cover-image: front-logos.pdf
+  # html:
+  #   theme: flatly
+  #   font-family: sans-serif
+  #   css: styles.css
+  #   toc: true
+  #   toc-depth: 4
+  #   default-image-extension: pdf
+  #   page-layout: full
+  #   fig-responsive: true
+  # gfm:
+  #   html-math-method: 
+  #    method: webtex
+
+  pdf:
+    toc: false
+    number-sections: false
+    documentclass: article
+    keep-tex: false
+    pdf-engine: xelatex
+    lof: false
+    lot: false
+    geometry:
+      - top=30mm
+      - left=20mm
+      - heightrounded
+    fontsize: 12pt
+    colorlinks: true
+    cite-method: biblatex
+    bibliography: references.bib
+    default-image-extension: pdf
+    include-before-body: definitions.tex
+
+
+
+
