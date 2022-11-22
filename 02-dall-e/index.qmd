@@ -1,0 +1,121 @@
+---
+title: "\_"
+title-slide-attributes:
+    data-background-image: img/openai.jpeg
+# subtitle: "Tech Club"
+# date: "16 November 2022"
+format: 
+  revealjs:
+    # smaller: true
+    theme: [blood,custom.scss]
+    # logo: "img/logoturtle.png"
+    css: styles.css
+---
+
+---
+
+::::{.columns}
+:::{.column width="40%"}
+\
+\
+![](img/DALL%C2%B7E%202022-11-22%2016.32.30%20-%20cute%20robot%20holding%20up%20a%20_yellow%20warning%20sign_.png){width=100% fig-align="center"}
+:::
+:::{.column width="60%"}
+
+### Nothing you are about to see is real
+
+You are about to see:
+
+- Photos that are not real photos
+- Paintings that are not real paintings
+- People, places and things that **do not exist**.
+
+The images you are about to see were created by DALL-E 2.
+:::
+::::
+
+## DALL-E 2 {background-image="img/uDtfeUO.png" background-size="1400px"}
+
+## What is DALL-E?
+
+::::{.columns}
+:::{.column width="50%"}
+![](img/robot-drawing.jpg){width=60% fig-align="center"}
+
+<!-- With **AI**, computers can perform tasks that are typically done by people, including processing language, problem-solving, and learning. -->
+**DALL-E** is a new Artificial Intelligence (AI) system that can create realistic images and art from a description in natural language.
+:::
+:::{.column width="50%"}
+
+
+- It was created by a company called Open AI.
+
+- The model was created using a massive database of 650 million images with their captions.
+
+- The name is a portmanteau of 'Dali' (as in Salvador) and Pixar's 'WALL-E'.
+:::
+::::
+
+
+## How DALL-E works? 
+
+- Creates images from scratch based on a text prompt
+- Creates edits of an existing image based on a new text prompt
+- Creates variations of an existing image
+<!-- 
+[DALLE-2 intro video](https://www.youtube.com/watch?v=qTgPSKKjfVg) -->
+
+{{< video https://youtu.be/qTgPSKKjfVg width="500" height="350" >}}
+
+## How to use it?
+
+Write a sentence of 400 characters or less, here are some examples:
+
+- A portrait of a dog in a library
+- A 3D render of a teapot in the shape of a king with red hair
+- A dinosaur having a piano lesson, digital art.
+
+## Some key words
+
+- 3D render
+- Oil painting
+- Photo
+- Portrait
+- Cartoon
+- Sketch
+- Comic book
+- Digital art
+
+## Artists
+
+- Impressionisms: Claude Monet and Van Gogh
+- Surrealism: Salvador Dalí
+- Cubism: Pablo Picasso and Henri Matisse
+- Expressionism: Edvard Munch
+- Pop Art: Andy Warhol
+
+---
+
+**Let's do some exercises**
+
+:::{.callout-tip}
+# Exercise
+Open a browser and go to [https://openai.com/dall-e-2](https://openai.com/dall-e-2)
+
+
+- dps.techclub@hotmail.com
+
+- Techbuddies1234
+:::
+
+![](img/cat.gif){width=50% fig-align="center"}
+
+## More Image Generators to try
+
+- [https://beta.dreamstudio.ai/dream](https://beta.dreamstudio.ai/dream)
+- [https://www.photoroom.com/backgrounds/](https://www.photoroom.com/backgrounds/)
+
+## Additional Resources
+
+- [The DALL-E 2 promt book](The-DALL%C2%B7E-2-prompt-book-v1.02.pdf)
+- [An A.I.-Generated Picture Won an Art Prize. Artists Aren’t Happy.](https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists.html) 

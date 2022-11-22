@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "DPS Tech Club - DALL-E"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    code-line-numbers: false
+    embed-resources: false
+
+
+

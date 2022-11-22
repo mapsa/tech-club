@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html#dall-e-2",
+    "href": "index.html#dall-e-2",
+    "title": " ",
+    "section": "DALL-E 2",
+    "text": "DALL-E 2"
+  },
+  {
+    "objectID": "index.html#what-is-dall-e",
+    "href": "index.html#what-is-dall-e",
+    "title": " ",
+    "section": "What is DALL-E?",
+    "text": "What is DALL-E?\n\n\n\n\n\n\n\n\nDALL-E is a new Artificial Intelligence (AI) system that can create realistic images and art from a description in natural language.\n\n\nIt was created by a company called Open AI.\nThe model was created using a massive database of 650 million images with their captions.\nThe name is a portmanteau of ‘Dali’ (as in Salvador) and Pixar’s ‘WALL-E’."
+  },
+  {
+    "objectID": "index.html#how-dall-e-works",
+    "href": "index.html#how-dall-e-works",
+    "title": " ",
+    "section": "How DALL-E works?",
+    "text": "How DALL-E works?\n\nCreates images from scratch based on a text prompt\nCreates edits of an existing image based on a new text prompt\nCreates variations of an existing image"
+  },
+  {
+    "objectID": "index.html#how-to-use-it",
+    "href": "index.html#how-to-use-it",
+    "title": " ",
+    "section": "How to use it?",
+    "text": "How to use it?\nWrite a sentence of 400 characters or less, here are some examples:\n\nA portrait of a dog in a library\nA 3D render of a teapot in the shape of a king with red hair\nA dinosaur having a piano lesson, digital art."
+  },
+  {
+    "objectID": "index.html#some-key-words",
+    "href": "index.html#some-key-words",
+    "title": " ",
+    "section": "Some key words",
+    "text": "Some key words\n\n3D render\nOil painting\nPhoto\nPortrait\nCartoon\nSketch\nComic book\nDigital art"
+  },
+  {
+    "objectID": "index.html#artists",
+    "href": "index.html#artists",
+    "title": " ",
+    "section": "Artists",
+    "text": "Artists\n\nImpressionisms: Claude Monet and Van Gogh\nSurrealism: Salvador Dalí\nCubism: Pablo Picasso and Henri Matisse\nExpressionism: Edvard Munch\nPop Art: Andy Warhol"
+  },
+  {
+    "objectID": "index.html#more-image-generators-to-try",
+    "href": "index.html#more-image-generators-to-try",
+    "title": " ",
+    "section": "More Image Generators to try",
+    "text": "More Image Generators to try\n\nhttps://beta.dreamstudio.ai/dream\nhttps://www.photoroom.com/backgrounds/"
+  },
+  {
+    "objectID": "index.html#additional-resources",
+    "href": "index.html#additional-resources",
+    "title": " ",
+    "section": "Additional Resources",
+    "text": "Additional Resources\n\nThe DALL-E 2 promt book\nAn A.I.-Generated Picture Won an Art Prize. Artists Aren’t Happy."
+  }
+]

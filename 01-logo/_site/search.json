@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "index.html#what-is-logo",
+    "href": "index.html#what-is-logo",
+    "title": "Logo",
+    "section": "What is Logo?",
+    "text": "What is Logo?\n\n\nLogo is a programming language known because it produces images created by a small turtle."
+  },
+  {
+    "objectID": "index.html#basic-commands",
+    "href": "index.html#basic-commands",
+    "title": "Logo",
+    "section": "Basic commands",
+    "text": "Basic commands\n\n\nAt the beginning the turtle is positioned at the centre of the screen."
+  },
+  {
+    "objectID": "index.html#how-to-draw-a-square",
+    "href": "index.html#how-to-draw-a-square",
+    "title": "Logo",
+    "section": "How to draw a square?",
+    "text": "How to draw a square?\n\n\nThe turtle can move forward and draw a line using the command forward or its short form fd:\n\n\n\nforward 100"
+  },
+  {
+    "objectID": "index.html#how-to-draw-a-square-1",
+    "href": "index.html#how-to-draw-a-square-1",
+    "title": "Logo",
+    "section": "How to draw a square?",
+    "text": "How to draw a square?\n\n\nNow we need to turn the turtle 90 degrees:\n\n\nright 90"
+  },
+  {
+    "objectID": "index.html#how-to-draw-a-square-2",
+    "href": "index.html#how-to-draw-a-square-2",
+    "title": "Logo",
+    "section": "How to draw a square?",
+    "text": "How to draw a square?\n\n\nLet’s move forward:\n\n\nforward 100"
+  },
+  {
+    "objectID": "index.html#how-to-draw-a-square-3",
+    "href": "index.html#how-to-draw-a-square-3",
+    "title": "Logo",
+    "section": "How to draw a square?",
+    "text": "How to draw a square?\n\n\nAnd turn right again …\n\n\nright 90"
+  },
+  {
+    "objectID": "index.html#how-to-draw-a-square-4",
+    "href": "index.html#how-to-draw-a-square-4",
+    "title": "Logo",
+    "section": "How to draw a square?",
+    "text": "How to draw a square?\n\n\nyou know what’s next already\n\n\nforward 100"
+  },
+  {
+    "objectID": "index.html#how-to-draw-a-square-5",
+    "href": "index.html#how-to-draw-a-square-5",
+    "title": "Logo",
+    "section": "How to draw a square?",
+    "text": "How to draw a square?\n\n\nLet’s turn the turtle one last time\n\n\nright 90"
+  },
+  {
+    "objectID": "index.html#how-to-draw-a-square-6",
+    "href": "index.html#how-to-draw-a-square-6",
+    "title": "Logo",
+    "section": "How to draw a square?",
+    "text": "How to draw a square?\n\n\nWe did it!!\n\n\nforward 100"
+  },
+  {
+    "objectID": "index.html#loops",
+    "href": "index.html#loops",
+    "title": "Logo",
+    "section": "Loops",
+    "text": "Loops\nA loop is an instruction that repeats until a specified condition is reached. In Logo, the most common loop operations is called repeat."
+  },
+  {
+    "objectID": "index.html#a-square-using-loops",
+    "href": "index.html#a-square-using-loops",
+    "title": "Logo",
+    "section": "A square using loops",
+    "text": "A square using loops\n\n\nThis is a square can be created using repeat:\nrepeat 4 [\n    forward 100\n    right 90\n]"
+  },
+  {
+    "objectID": "index.html#another-example-of-loops",
+    "href": "index.html#another-example-of-loops",
+    "title": "Logo",
+    "section": "Another example of loops",
+    "text": "Another example of loops\nThis is a star of 10 points created repeating the same code 10 times.\n\n\nrepeat 10 [\n    forward 30\n    right -100\n    forward 30\n    right 140\n]"
+  },
+  {
+    "objectID": "index.html#more-basic-commands",
+    "href": "index.html#more-basic-commands",
+    "title": "Logo",
+    "section": "More basic commands",
+    "text": "More basic commands\n\n\n\nCommand\nAbbrv\nDescription\n\n\n\n\nforward\nfd\nMoves forward\n\n\nback\nbk\nMoves backward\n\n\nright\nrt\nTurn x degrees to the right\n\n\nleft\nlt\nTurn x degrees to the left\n\n\nhome\n\nGo back to start"
+  },
+  {
+    "objectID": "index.html#more-basic-commands-1",
+    "href": "index.html#more-basic-commands-1",
+    "title": "Logo",
+    "section": "More basic commands",
+    "text": "More basic commands\n\n\n\nCommand\nAbbrv\nDescription\n\n\n\n\nclearscreen\ncs\nClean the screen\n\n\nhideturtle\nht\nHide the turtle\n\n\nshowturtle\nst\nShow the turtle\n\n\npenup\npu\nPut the pen into non-draw state\n\n\npendown\npd\nPut the pen into draw state\n\n\nsetpensize\n\nSet the line thickness\n\n\nsetpencolor\n\nChange the line color"
+  },
+  {
+    "objectID": "index.html#more-advanced-commands",
+    "href": "index.html#more-advanced-commands",
+    "title": "Logo",
+    "section": "More advanced commands",
+    "text": "More advanced commands\n\n\n\nCommand\nDescription\n\n\n\n\nrepeat\n\n\n\narc angle radious\nDraw an arc\n\n\nsetpos [X Y]\nMove the turtle to position X,Y"
+  }
+]
