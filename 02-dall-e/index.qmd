@@ -22,7 +22,7 @@ format:
 :::
 :::{.column width="60%"}
 
-### Nothing you are about to see is real
+### Nothing you are about to see is real. For real.
 
 You are about to see:
 
@@ -75,7 +75,7 @@ Write a sentence of 400 characters or less, here are some examples:
 - A 3D render of a teapot in the shape of a king with red hair
 - A dinosaur having a piano lesson, digital art.
 
-## Some key words
+## Some keywords
 
 - 3D render
 - Oil painting
